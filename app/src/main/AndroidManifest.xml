@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".SearchCustomer" />
         <activity android:name=".createCustomer" />
-        <activity android:name=".consultantEvents"></activity>
+        <activity android:name=".consultantEvents" />
+        <activity android:name=".createEvents"></activity>
     </application>
 
 </manifest>

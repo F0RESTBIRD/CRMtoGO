@@ -9,34 +9,37 @@
 
     <Button
         android:id="@+id/searchCustomerButton"
-        android:layout_width="135dp"
+        android:layout_width="165dp"
         android:layout_height="50dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="144dp"
         android:text="Kunde suchen"
+        android:textSize="16sp"
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_absoluteY="135dp" />
 
     <Button
         android:id="@+id/createCustomerButton"
-        android:layout_width="135dp"
+        android:layout_width="165dp"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="220dp"
         android:text="Kunde anlegen"
+        android:textSize="16sp"
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_absoluteY="235dp" />
 
     <Button
         android:id="@+id/consultantEventsButton"
-        android:layout_width="135dp"
+        android:layout_width="165dp"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="108dp"
         android:text="Termine"
+        android:textSize="16sp"
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_relativeY="75%" />
 
